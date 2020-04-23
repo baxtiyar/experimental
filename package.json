@@ -1,0 +1,29 @@
+{
+  "name": "bahtiyar-sahinoglu",
+  "version": "1.0.0",
+  "description": "This is an experimental project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dene": "echo 'Bahti'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "experimental",
+    "packet"
+  ],
+  "author": "Bahtiyar Sahinoglu",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.9.10",
+    "nodemailer": "^6.4.6",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baxtiyar/experimental.git"
+  }
+}
